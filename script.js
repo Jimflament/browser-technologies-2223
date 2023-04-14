@@ -158,6 +158,18 @@ const loadInput = () => {
 formInputs.forEach((input) => {
   input.addEventListener('input', saveInput);
 });
+const input = document.querySelector('#student-nummer');
+const message = document.querySelector('#student-nummer-message');
+
+input.addEventListener('input', () => {
+  if (input.value.length !== 9) {
+    input.setCustomValidity('Het moet een 9 cijferig nummer zijn');
+    message.textContent = 'Het moet een 9 cijferig nummer zijn';
+  } else {
+    input.setCustomValidity('');
+    message.textContent = '';
+  }
+});
 
 
 // checkAllRadios();
