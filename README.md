@@ -36,13 +36,13 @@ Op basis van deze user story en aanvullende informatie ben ik begonnen met het m
 
 Progressive Enhancement is een ontwerp- en ontwikkelingsbenadering voor het web die zich richt op het creëren van een robuuste en toegankelijke gebruikerservaring op verschillende apparaten, browsers en netwerkcondities. Het kernprincipe van progressive enhancement is het bouwen van een basisversie van een website of webtoepassing die toegankelijk en functioneel is, zelfs in de meest elementaire omgevingen, en deze vervolgens progressief uitbreiden met extra functies en verbeteringen voor meer capabele apparaten en browsers.
 
-![Schermafbeelding 2023-05-22 173156.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173156.png)
+![Schermafbeelding 2023-05-22 173156.png][Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173156.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Herkansing/Schermafbeelding%202023-05-22%20173156.png)
 
-![Schermafbeelding 2023-05-22 173449.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173449.png)
+![Schermafbeelding 2023-05-22 173449.png][Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173449.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Herkansing/Schermafbeelding%202023-05-22%20173449.png)
 
-![Schermafbeelding 2023-05-22 173506.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173506.png)
+![Schermafbeelding 2023-05-22 173506.png][Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173506.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Herkansing/Schermafbeelding%202023-05-22%20173506.png)
 
-![Schermafbeelding 2023-05-22 173656.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173656.png)
+![Schermafbeelding 2023-05-22 173656.png][Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-05-22_173656.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Herkansing/Schermafbeelding%202023-05-22%20173656.png)
 
 ---
 
