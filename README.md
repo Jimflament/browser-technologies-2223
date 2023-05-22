@@ -1,6 +1,6 @@
 # Browser technologies | Enquete over de minor Web Development
 
-[Equete website](https://jimflament.github.io/browser-technologies-2223/)
+[Enquete website](https://jimflament.github.io/browser-technologies-2223/)
 
 ## Introductie
 
