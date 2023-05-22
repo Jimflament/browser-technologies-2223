@@ -91,15 +91,15 @@ Mijn enquête is op de volgende browsers getest:
 - Safari IOS
 - Chrome Android
 
-![Scherm­afbeelding 2023-04-06 om 00.48.28.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-04-06_om_00.48.28.png)
+![Scherm­afbeelding 2023-04-06 om 00.48.28.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Scherm%C2%ADafbeelding%202023-04-06%20om%2000.48.28.png)
 
-![Scherm­afbeelding 2023-04-06 om 00.49.41.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-04-06_om_00.49.41.png)
+![Scherm­afbeelding 2023-04-06 om 00.49.41.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Scherm%C2%ADafbeelding%202023-04-06%20om%2000.49.41.png)
 
-![Scherm­afbeelding 2023-04-06 om 00.50.24.png](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/Schermafbeelding_2023-04-06_om_00.50.24.png)
+![Scherm­afbeelding 2023-04-06 om 00.50.24.png](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/Scherm%C2%ADafbeelding%202023-04-06%20om%2000.50.24.png)
 
-![WhatsApp Image 2023-04-06 at 00.55.06.jpeg](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/WhatsApp_Image_2023-04-06_at_00.55.06.jpeg)
+![WhatsApp Image 2023-04-06 at 00.55.06.jpeg](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/WhatsApp%20Image%202023-04-06%20at%2000.55.06.jpeg)
 
-![IMG_2790.PNG](Browser%20technologies%20Enquete%20over%20de%20minor%20Web%20Dev%20d4c9a35d026d4eb38a27f781ccd01d2a/IMG_2790.png)
+![IMG_2790.PNG](https://github.com/Jimflament/browser-technologies-2223/blob/main/images/IMG_2790.PNG)
 
 Ik heb het zo simpel mogelijk gehouden zodat het op de meest browser kan werken. Ik heb een klein onderzoek gedaan naar :focus en hoe ik dat kan gebruiken om de gebruiker te laten zien waar die zich momenteen bevindt tijdens het tabben.
 
